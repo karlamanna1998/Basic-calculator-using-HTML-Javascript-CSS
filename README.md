@@ -1,3 +1,4 @@
 # Basic-calculator-using-HTML-Javascript-CSS
 Basic calculator using HTML, JavaScript, CSS
-![Final outcome](Final outcome.png)
+![image](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
+
